@@ -10,7 +10,7 @@ import (
 
 	"github.com/jhump/protoreflect/desc"
 	"github.com/jhump/protoreflect/desc/protoparse"
-	clifs "github.com/vadimi/grpc-client-cli/internal/fs"
+	clifs "github.com/mathong/grpc-client-cli/internal/fs"
 )
 
 var errNoProtoFilesFound = errors.New("no proto files found")

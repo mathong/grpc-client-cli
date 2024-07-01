@@ -6,8 +6,8 @@ import (
 	"net"
 	"testing"
 
+	"github.com/mathong/grpc-client-cli/internal/rpc"
 	"github.com/stretchr/testify/assert"
-	"github.com/vadimi/grpc-client-cli/internal/rpc"
 	"google.golang.org/grpc"
 )
 

@@ -11,7 +11,7 @@ import (
 	"github.com/jhump/protoreflect/desc"
 	"github.com/jhump/protoreflect/desc/protoprint"
 	"github.com/jhump/protoreflect/dynamic"
-	"github.com/vadimi/grpc-client-cli/internal/caller"
+	"github.com/mathong/grpc-client-cli/internal/caller"
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/types/dynamicpb"
 )

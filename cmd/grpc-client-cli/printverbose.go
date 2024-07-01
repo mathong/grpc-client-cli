@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"github.com/gookit/color"
-	"github.com/vadimi/grpc-client-cli/internal/rpc"
+	"github.com/mathong/grpc-client-cli/internal/rpc"
 	"google.golang.org/grpc/status"
 )
 
